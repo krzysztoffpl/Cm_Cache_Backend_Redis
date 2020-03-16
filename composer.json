@@ -11,10 +11,5 @@
     ],
     "require":{
         "colinmollenhour/credis": "*"
-    },
-    "autoload": {
-        "classmap": [
-            "Cm/Cache/Backend/Redis.php"
-        ]
     }
 }
